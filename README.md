@@ -1,2 +1,0 @@
-# gogo.mn
-# gogo.mn
