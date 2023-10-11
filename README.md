@@ -1,1 +1,1 @@
-# GoGo
+# gogo.mn
